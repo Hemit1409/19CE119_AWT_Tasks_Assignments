@@ -1,0 +1,59 @@
+
+
+<class class="container mainbox">
+    <div class="row justify-content-md-center">
+      <div class="col-12">
+        <h1>ADD SUBJECT DETAILS</h1>
+      </div>
+    
+      <div class="col-8" style="margin: 2rem;padding: 5rem;">
+        <form name="subject-form" action="/show-data" method="post" class="row g-2"  >
+          <div class="col-md-6">
+            <label for="subject_code" class="form-label">Subject Code</label>
+            <input type="text" class="form-control" name="scode" id="subject_code" maxlength="10" required>
+          </div>
+
+          <div class="col-md-6">
+            <label for="subject_name" class="form-label">Subject Name</label>
+            <input type="text" class="form-control" name="sname" id="subject_name"  required>
+          </div>
+
+          <div class="col-md-6">
+            <label for="institute_name" class="form-label">Institute Name</label>
+            <input type="text" class="form-control" name="iname" id="institute_name"  required>
+          </div>
+
+          <div class="col-md-6">
+            <label for="department_name" class="form-label">Department Name</label>
+            <input type="text" class="form-control" name="dname" id="department_name" required>
+          </div>
+
+          <div class="col-md-8">
+            <label for="sem" class="form-label">Semester</label>
+            <select class="form-select" name="sem" id="sem" aria-describedby="sem" required>
+              <option selected disabled value="">Choose</option>
+              <option>1</option>
+              <option>2</option>
+              <option>3</option>
+              <option>4</option>
+              <option>5</option>
+              <option>6</option>
+              <option>7</option>
+              <option>8</option>
+            </select>
+          </div>
+
+
+          <div class="col-12">
+            <button class="btn btn-primary" type="submit">Submit form</button>
+          </div>
+
+        </div>
+        </form>
+      </div>
+    
+
+</class>
+
+
+

@@ -1,0 +1,54 @@
+  
+   <div class="container mainbox">
+        <div class="row justify-content-md-center">
+            <div class="col-md-auto">
+                <h1>🏪 Fashion MALL 🏬</h1>
+            </div>
+        </div>
+
+        <div class="row justify-content-md-center">
+
+            <div class="card mb-3" style="width: 40rem;">
+                <h3 class="card-header">
+                    {{data.productName}}
+                    
+                </h3>
+                 
+                <div class="card-body">
+                    <a href="/products" class="btn btn-info">
+                        <span class="emoji-left">👈</span>Back
+                    </a>
+                    {{#if data.discount}}
+                <h5 class="btn btn-warning disabled dis"><strong></strong>20% Discount</strong></h5>
+                    {{/if}}
+
+                    
+                </div>
+                <div class="product__hero">
+                    <span class="product__emoji product__emoji--1">{{data.image}}</span>
+                    <span class="product__emoji product__emoji--2">{{data.image}}</span>
+                    <span class="product__emoji product__emoji--3">{{data.image}}</span>
+                    <span class="product__emoji product__emoji--4">{{data.image}}</span>
+                    <span class="product__emoji product__emoji--5">{{data.image}}</span>
+                    <span class="product__emoji product__emoji--6">{{data.image}}</span>
+                    <span class="product__emoji product__emoji--7">{{data.image}}</span>
+                    <span class="product__emoji product__emoji--8">{{data.image}}</span>
+                    <span class="product__emoji product__emoji--9">{{data.image}}</span>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">{{data.description}}</p>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><span class="emoji-left">🌍</span>From {{data.from}}</li>
+                    <li class="list-group-item"><span class="emoji-left">❤️</span>{{data.type}}</li>
+                    <li class="list-group-item">{{data.quantity}} <span class="emoji-left">Combo 🔥</span></li>
+                    <li class="list-group-item"><span class="emoji-left">🏷️</span>{{data.price}} ₹</li>
+                </ul>
+                <div class="card-footer text-muted">
+
+                </div>
+
+            </div>
+        </div>
+
+    </div>

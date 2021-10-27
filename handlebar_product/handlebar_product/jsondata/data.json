@@ -1,0 +1,312 @@
+[
+  {
+    "id": 0,
+    "productName": "T-Shirts",
+    "image": "👕",
+    "from": "Spain",
+    "type": "2 Full-Sleeves, 2 Half-Sleeves ",
+    "quantity": "4 👕",
+    "price": "1500",
+    "discount": true,
+    "description": "Preshrunk to let the size fit you perfectly,ﾠMore breathability and resistant with combed yarn and soft feel of cotton, 60 degree color fastness for the bold and bright look, Sustainable colors ensuring long-lastingness."
+  },
+  {
+    "id": 1,
+    "productName": "Jeans",
+    "image": "👖",
+    "from": "Portugal",
+    "type": "1 Skinny jeans (Tight jeans), 1 Straight leg jeans",
+    "quantity": "2 👖",
+    "price": "2000",
+    "discount": false,
+    "description": "Shop from a wide range of Jeans from Guchu. Perfect for your everyday use, you could pair it with a stylish t-shirt or shirt complete the look."
+  },
+  {
+    "id": 2,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },
+  {
+    "id": 3,
+    "productName": "Shorts",
+    "image": "🩳",
+    "from": "USA",
+    "type": "4 Puma Shorts",
+    "quantity": "4 🩳",
+    "price": "2000",
+    "discount": true,
+    "description": "Black solid mid-rise lounge shorts, has an inner elasticated with outer drawstring closure, two pockets."
+  },
+  {
+    "id": 4,
+    "productName": "Sari",
+    "image": "🥻",
+    "from": "Varanasi",
+    "type": "2 Banarasi Sari",
+    "quantity": "2 🥻",
+    "price": "8000",
+    "discount": false,
+    "description": "Teal and Gold-toned banarasi woven design saree and has a woven design border.Banarasi sarees originate from the city of Varanasi (Uttar Pradesh). These are well known for the Mughal Era inspired designs in golden as well as silver brocade or Zari."
+  },
+  {
+    "id": 5,
+    "productName": "Adidas Shoes",
+    "image": "👟",
+    "from": "Germany",
+    "type": "Adidas Running Shoes",
+    "quantity": "2 👟",
+    "price": "2000",
+    "discount": true,
+    "description": "Adidas pair of Shoe Best Quality ever"
+  },{
+    "id": 6,
+    "productName": "Cap",
+    "image": "🧢",
+    "from": "USA",
+    "type": "3 Billed Caps",
+    "quantity": "3 🧢",
+    "price": "1000",
+    "discount": true,
+    "description": "Wear best cap made in USA. Use it anywhere. "
+  },{
+    "id": 7,
+    "productName": "Top Hat",
+    "image": "🎩",
+    "from": "India",
+    "type": "Magician Top Hat",
+    "quantity": "2 🎩",
+    "price": "500",
+    "discount": true,
+    "description": "Top hat for both man and women"
+  },{
+    "id": 8,
+    "productName": "Dress",
+    "image": "👗",
+    "from": "India",
+    "type": "3 Women Dresses",
+    "quantity": "3 👗",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked Dress, has a spread collar, button placket."
+  },{
+    "id": 9,
+    "productName": "Handbag",
+    "image": "👜",
+    "from": "Portugal",
+    "type": "2 Leather Handbag",
+    "quantity": "2 👜",
+    "price": "7000",
+    "discount": true,
+    "description": "Two women Handbags best quality Leather Handbags durable."
+  },
+  {
+    "id": 10,
+    "productName": "Glasses Frame",
+    "image": "👓",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "1 👓",
+    "price": "1000",
+    "discount": true,
+    "description": "Durable Fibre Glasses frame with black stripes."
+  },{
+    "id": 11,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 12,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 13,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 14,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },
+  {
+    "id": 15,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 16,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 17,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 18,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 19,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },
+  {
+    "id": 20,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 21,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 22,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 23,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 24,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },
+  {
+    "id": 25,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 26,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 27,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 28,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  },{
+    "id": 29,
+    "productName": "Shirts",
+    "image": "👔",
+    "from": "Portugal",
+    "type": "3 Formal Shirts",
+    "quantity": "3 👔",
+    "price": "5000",
+    "discount": true,
+    "description": "Red and black checked casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem."
+  }
+]

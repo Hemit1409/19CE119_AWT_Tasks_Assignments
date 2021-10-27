@@ -1,0 +1,43 @@
+<div class="row justify-content-md-center">
+            <div class="col-md-auto">
+                <h1>🏪 Fashion MALL 🏬</h1>
+            </div>
+        </div>
+        
+  <div class="row justify-content-md-center cardn">
+
+      
+      {{#each datas}}
+      <div class="col-4 justify-content-center">
+          <div class="card border-info mb-3" style="max-width: 30rem;margin: 5rem 5rem;">
+      <!-- <div class="card-header"> <img src="{%IMAGE%}">&nbsp;&nbsp;&nbsp;&nbsp;{%PRODUCTNAME%}</div> -->
+      <div
+        class="card-header"
+      >&nbsp;&nbsp;&nbsp;&nbsp;{{this.productName}}&nbsp;&nbsp;&nbsp;&nbsp;{{this.image}}{{this.image}}</div>
+      <div class="card-body">
+        <h4 class="card-title">
+
+          {{#if this.discount}}
+            <div class="card__detail-box">
+              <h6 class="card__detail card__detail--discount">20% Discount</h6>
+            </div>
+          {{/if}}
+        </h4>
+        <p class="card-text">{{this.quantity}} Combo 🔥</p>
+        <p class="card-text">{{this.price}} ₹</p>
+        <p class="card-text">{{this.type}}</p>
+        <p class="card-text">
+          <a class="btn btn-outline-secondary" href="/product/{{this.id}}">
+            <span>Detail <i class="emoji-right">👉</i></span>
+          </a>
+        </p>
+      </div>
+    </div>
+
+      </div>
+    {{/each}}
+    
+
+  </div>
+
+
